@@ -2,13 +2,7 @@
   <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00163v_SSD_Pyramid_25.jpg" width="65%" style="border-radius:12px;">
 </p>
 
-<h2 align="center">🎨 Prokudin-Gorskii Tarihi Fotoğrafları Renge Dönüştürme</h2>
 
-<p align="center">
-Eski cam negatiflerden alınan RGB kanalları hizalanıp modern renge dönüştürüldü.
-</p>
-
-<div align="center">
 
 # 🎨 Prokudin-Gorskii: Tarihi Fotoğrafları Renge Döndürme  
 ## *SSD, NCC ve Multi-Scale Pyramid ile Otomatik Görüntü Hizalama*
@@ -94,18 +88,36 @@ python code/main.py
 
 
 
-## 📷 Sonuçlardan Örnekler
+## 🎨 Sonuçlardan Örnekler
+
+<p align="center">
+  <b>Öncesi → Sonrası</b>
+</p>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00163v.jpg" width="28%">
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00163v_SSD_Pyramid_25.jpg" width="28%">
+<table>
+<tr>
+<td align="center"><b>Orijinal</b></td>
+<td align="center"><b>Renkli</b></td>
+</tr>
 
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00106v.jpg" width="28%">
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00106v_SSD_Pyramid_25.jpg" width="28%">
+<tr>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00163v.jpg" height="260"></td>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00163v_SSD_Pyramid_25.jpg" height="260"></td>
+</tr>
 
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00398v.jpg" width="28%">
-<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00398v_SSD_Pyramid_25.jpg" width="28%">
+<tr>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00106v.jpg" height="260"></td>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00106v_SSD_Pyramid_25.jpg" height="260"></td>
+</tr>
+
+<tr>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00398v.jpg" height="260"></td>
+<td><img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00398v_SSD_Pyramid_25.jpg" height="260"></td>
+</tr>
+
+</table>
 
 </div>
 
