@@ -1,3 +1,17 @@
 venv/ 
 .vscode/ 
 __pycache__/ 
+# Python 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+# IDE 
+.vscode/ 
+.idea/ 
+# BÅyÅk klasîrler 
+node_modules/ 
+.cache/ 
+.huggingface/ 
+# Windows 
+Thumbs.db 
+desktop.ini 
