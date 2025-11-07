@@ -4,8 +4,6 @@
 # 🎨 Prokudin-Gorskii: Tarihi Fotoğrafları Renge Döndürme  
 ## *SSD, NCC ve Multi-Scale Pyramid ile Otomatik Görüntü Hizalama*
 
-**Büşra Mina AL**  
-OSTİM Teknik Üniversitesi – Yapay Zeka Mühendisliği
 
 </div>
 
@@ -85,15 +83,15 @@ python code/main.py
 
 ---
 
-## 🎯 Sonuçlardan Galeri (Dosyaları repo'ya yükledikten sonra otomatik görünür)
+## 🎯 Sonuçlardan Galeri
 
 <div align="center">
 
-| Orijinal | Renkli |
-|--------|--------|
-| `data/00106v.jpg` | `results/00106v_Pyramid_25.jpg` |
-| `data/00056v.jpg` | `results/00056v_Pyramid_25.jpg` |
-| `data/00398v.jpg` | `results/00398v_Pyramid_25.jpg` |
+| Orijinal | İşlenmiş (Renkli) |
+|---------|-------------------|
+| <img src="data/00106v.jpg" width="260"> | <img src="results/00106v_Pyramid_25.jpg" width="260"> |
+| <img src="data/00056v.jpg" width="260"> | <img src="results/00056v_Pyramid_25.jpg" width="260"> |
+| <img src="data/00398v.jpg" width="260"> | <img src="results/00398v_Pyramid_25.jpg" width="260"> |
 
 </div>
 
