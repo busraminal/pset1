@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00163v_SSD_Pyramid_25.jpg" width="65%" style="border-radius:12px;">
+</p>
+
+<h2 align="center">🎨 Prokudin-Gorskii Tarihi Fotoğrafları Renge Dönüştürme</h2>
+
+<p align="center">
+Eski cam negatiflerden alınan RGB kanalları hizalanıp modern renge dönüştürüldü.
+</p>
 
 <div align="center">
 
@@ -83,17 +92,23 @@ python code/main.py
 
 ---
 
-## 🎯 Sonuçlardan Galeri
+
+
+## 📷 Sonuçlardan Örnekler
 
 <div align="center">
 
-| Orijinal | Renkli |
-|---------|--------|
-| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00106v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00106v_Pyramid_25.jpg" width="300"> |
-| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00056v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00056v_Pyramid_25.jpg" width="300"> |
-| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00398v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00398v_Pyramid_25.jpg" width="300"> |
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00163v.jpg" width="28%">
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00163v_SSD_Pyramid_25.jpg" width="28%">
+
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00106v.jpg" width="28%">
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00106v_SSD_Pyramid_25.jpg" width="28%">
+
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00398v.jpg" width="28%">
+<img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00398v_SSD_Pyramid_25.jpg" width="28%">
 
 </div>
+
 
 
 ---
