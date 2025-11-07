@@ -87,13 +87,14 @@ python code/main.py
 
 <div align="center">
 
-| Orijinal | İşlenmiş (Renkli) |
-|---------|-------------------|
-| <img src="data/00106v.jpg" width="260"> | <img src="results/00106v_Pyramid_25.jpg" width="260"> |
-| <img src="data/00056v.jpg" width="260"> | <img src="results/00056v_Pyramid_25.jpg" width="260"> |
-| <img src="data/00398v.jpg" width="260"> | <img src="results/00398v_Pyramid_25.jpg" width="260"> |
+| Orijinal | Renkli |
+|---------|--------|
+| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00106v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00106v_Pyramid_25.jpg" width="300"> |
+| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00056v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00056v_Pyramid_25.jpg" width="300"> |
+| <img src="https://raw.githubusercontent.com/busraminal/pset1/main/data/00398v.jpg" width="300"> | <img src="https://raw.githubusercontent.com/busraminal/pset1/main/results/00398v_Pyramid_25.jpg" width="300"> |
 
 </div>
+
 
 ---
 
